@@ -13,9 +13,6 @@
     <a href="https://github.com/iwangbowen">
       <img src="https://img.shields.io/badge/GitHub-iwangbowen-41B883?style=for-the-badge&logo=github&logoColor=white&labelColor=2c3e50&logoWidth=20" alt="GitHub Profile">
     </a>
-    <a href="https://iwangbowen.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-41B883?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2c3e50&logoWidth=20" alt="Portfolio">
-    </a>
   </p>
   
   <!-- ANIMATED VIEW COUNTER -->
