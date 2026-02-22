@@ -33,11 +33,6 @@
 
 ## Projects & Experience
 
-### Open Source Contributions
-- **[vue-expression-editor](https://github.com/iwangbowen/vue-expression-editor)** - Vue.js 表达式编辑器组件，支持可视化构建复杂表达式
-- **[UI-Builder](https://github.com/iwangbowen/UI-Builder)** - 可视化界面构建工具，拖拽式组件设计
-- **[DoraCMS](https://github.com/iwangbowen/DoraCMS)** - 基于 Node.js 的内容管理系统
-
 ### Technical Expertise
 - **架构设计**: 擅长设计可扩展的前端架构，注重代码质量和可维护性
 - **性能优化**: 深入理解浏览器渲染机制，熟练运用各种性能优化技术
